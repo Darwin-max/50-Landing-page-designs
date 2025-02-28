@@ -4,3 +4,48 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    /* background-color: black; */
+    font-family: "Avenir-Heavy";
+    background-color: var(--color-2);
+    padding: 64px; 
+    box-sizing: border-box;
+}
+
+.container {
+    /* background-color: royalblue; */
+    width: 610px;
+    height: 355px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 220px;
+}
+
+
+
+h1 {
+    
+    /* background-color: red; */
+    width: 610px;
+    height: 145px;
+    margin-bottom: -19px; 
+    font-size: 64px;
+    margin-bottom: 50px;
+    
+}
+
+.subtitle {
+    font-family: "Avenir-Roman";
+    width: 670px;
+    height: 180px;
+    margin: 0 auto 32px;
+    line-height: 1.6;
+    font-size: 30px;
+    
+}
