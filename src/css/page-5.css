@@ -16,7 +16,7 @@ body {
 
 .div__text-box {
     /* background-color: red; */
-    color: var(--color-3);
+    color: var(--color-2);
     font-family: "Avenir-Heavy";
     width: 531px;
     height: 208px;
@@ -55,7 +55,7 @@ body {
 .div__card-box .card-text {
     width: 418px;
     height: 132px;
-    color: var(--color-3);
+    color: var(--color-2);
     opacity: 80%;
     font-size: 24px;
 }
