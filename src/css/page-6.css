@@ -44,3 +44,231 @@
     text-transform: uppercase;
 } 
 
+
+/* aqui se termina la imagen del reloj con el texto */
+
+
+body{
+    width: 1440px;
+    height: 933px;
+    justify-self: center;
+}
+
+
+main{
+    display: flex;
+    flex-direction: row;
+    margin-top: -60px;
+}
+.section__column-1{
+    height: 869.14px;
+    width: 717px;
+    display: flex;
+    flex-direction: column;
+    padding-top: 64.75px;
+    padding-left: 64.75px;
+
+}
+
+.article__content {
+    /* background-color: cadetblue; */
+    width: 653px;
+    height: 460px;
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    margin-top:55.1px;
+}
+.article__content h1 {
+    width: 629px;
+    height: 240px;
+    color: var(--color-12);
+    font-family: "PlayfairDisplay-Bold";
+    font-size: 55px;
+}
+.article__content p {
+    width: 629px;
+    height: 90px;
+    color: var(--color-3);
+    font-size: 30px;
+    font-family: "WorkSans-Regular";
+    margin-top: -50px;
+}
+
+.section__content-buttons {
+    width: 505px;
+    height: 66px;
+    display: flex;
+    flex-direction: row;
+    gap: 37px;
+
+}
+
+.article__content button {
+     width: 219px;
+     height: 66px;
+     background: var(--color-12);
+     border-radius: 16px;
+     color: var(--color-1);
+     
+     font-size: 24px;
+}
+
+.div__button-2 button {
+    width: 254px;
+    height: 66px;
+    background: var(--color-2);
+    border-radius: 16px;
+    color: var(--color-3);
+    border-color: var(--color-3);
+    border-style: solid;
+    
+    font-size: 24px;
+}
+.primera-a{
+    color: var(--color-2);
+    text-decoration: none;
+}
+
+.segunda-a {
+    color: var(--color-3);
+    text-decoration: none;
+}
+
+.article__list {
+    position: absolute;
+    /* background-color: red; */
+    width: 652px;
+    height: 118px;
+    display: flex;
+    padding: 24px;
+    justify-content: space-between;
+    gap: 80px;
+    border-radius: 24px ;
+    margin-top: 600px;
+    border: 1px solid black;
+}
+.div__list-frame {
+    /* background-color: aquamarine; */
+    width: 91px;
+    height: 70px;
+    
+    font-size: 14px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+.div__list-frame h3 {
+    font-family: "Avenir-Heavy";
+    color: var(--color-1);
+}
+
+.div__list-frame-pic{
+    width: 21px;
+    height: 24px;
+}
+.div__list-frame-pic img{
+    width: 24px;
+    height: 24px;
+}
+
+.section__column-2{
+    width: 635.31px;
+    height: 778.19px;
+    display: flex;
+    padding-left: 24px;
+    padding-top: 62px;
+    
+}
+.article__image-group {
+    width: 645.31px;
+    height: 778.19px;
+    display: flex;
+    flex-direction: column;
+    margin-top: -100px;
+}
+
+.div__star-1 {
+    position: absolute;
+
+    width: 135.85px;
+    height: 135.85px;
+}
+.div__star-2 {
+    position: absolute;
+    width: 75px;
+    height: 94.59px;
+    margin-left: 159.92px;
+    margin-top: 159px;
+
+}
+.div__star-3 {
+    position: absolute;
+    width: 102.74px;
+    height: 129.58px;
+    margin-left: 480.8px;
+    margin-top: 562.27px;
+}
+.div__tag-1 {
+    position: absolute;
+    width: 252px;
+    height: 53px;
+    background: var(--color-5);
+    border-radius: 16px;
+    line-height: 53px;
+    justify-content: center;
+    display: flex;
+    margin-top: 136px;
+    margin-left: 400px;
+}
+.div__tag-1 h3{
+    color: var(--color-1);
+    font-family: "WorkSans-Regular";
+    font-size: 18px;
+}
+.div__tag-2 {
+    position: absolute;
+    width: 256px;
+    height: 60px;
+    background: var(--color-5);
+    border-radius: 16px;
+    line-height: 60px;
+    justify-content: center;
+    display: flex;
+    margin-left: 32px;
+    margin-top: 619px;
+}
+.div__tag-2 h3{
+    color: var(--color-1);
+    font-family: "WorkSans-Regular";
+    font-size: 24px;
+}
+.div__stroke-1 {
+    position: absolute;
+    width: 480px;
+    height: 568px;
+    border-radius: 48px;
+    border: 2px solid var(--color-2);
+    margin-top: 31px;
+    margin-left: 68px;
+    z-index: -3;
+
+}
+.div__stroke-2 {
+    position: absolute;
+    width: 310px;
+    height: 476px;
+    border-radius: 40px;
+    border: 2px solid var(--color-2);
+    margin-top: 300px;
+    margin-left: 345px;
+    z-index: -3;
+}
+.div__unsplash {
+    width: 480px;
+    height: 628px;
+    position: absolute;
+    padding-top: 90.24px;
+    padding-left: 135.85px;
+    z-index: -1;
+}
