@@ -45,9 +45,13 @@
     cursor: pointer;
     font-size: 18px;
     margin-top: 20px;
+    border: none;
     
 }
-
+.redirigir{
+    text-decoration: none;
+    color: var(--color-4);
+}
 
 .div__img{
     padding-top: 0px;
@@ -59,10 +63,7 @@
     padding-top: 0px;
 }
 
-.redirigir{
-    text-decoration: none;
-    color: var(--color-4);
-}
+
 
 
 
