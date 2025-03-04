@@ -4,3 +4,65 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.container_todo{
+    display: flex;
+    align-items: center;
+    height: 420px ;
+    gap: 2rem;
+}
+
+.header{
+    /* background-color: brown; */
+    margin-top: 200px;
+    width: 444px;
+    height: 473px ;
+    padding: 137px;
+    padding-left: 0;
+    margin-left: 34px;
+    
+}
+
+.header_title{
+    /* background-color: blueviolet; */
+    width: 444px;
+    height: 231px ;
+    font-family:"Avenir-Heavy";
+    color: var(--color-4);
+    margin-top: -140px;
+}
+
+.header_title{
+    width: 444px;
+    font-family:"Avenir-Roman";
+    color: var(--color-4);
+    font-size:56px;  
+}
+
+.header_subtitle{
+    font-family:"Avenir-Roman";
+    /* background-color: var(--color-1); */
+    color: var(--color-10);
+    width: 444px;
+    font-size: 26px; 
+    padding:  20px;
+    margin-top: -20px;
+    margin-left: -15px;
+}
+
+.header_button{
+    width: 157px;
+    height: 50px;
+    border: 0;
+    background-color: #252525;
+    border-radius: 16px;
+}
+
+.button_a{
+    text-decoration: none;
+    color: white;
+    font-family: "Avenir-Roman";
+    font-size: 18px;
+    
+}
+
