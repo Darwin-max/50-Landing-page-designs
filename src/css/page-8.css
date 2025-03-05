@@ -1,7 +1,28 @@
 @import url(variables.css);
 
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 1440px;
+    height: 926px;
+    display: flex;
+    justify-self: center;
+    flex-direction: row;
+    background: var(--color-1);
+}
+
+.section__img {
+    width: 656px;
+    height: 862.5px;
+    margin-top: 63px;
 }
