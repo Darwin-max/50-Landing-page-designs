@@ -100,3 +100,10 @@
     font-family: "Avenir-Medium";
     src: url("../src/storage/font/Avenir-Medium.ttf");
 }
+
+
+@font-face {
+    font-family: "Times-Regular";
+    src: url("../storage/font/Avenir/Avenir-Heavy.ttf");
+}
+
