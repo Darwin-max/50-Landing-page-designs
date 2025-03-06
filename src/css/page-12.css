@@ -1,0 +1,13 @@
+@import url(variables.css);
+*{
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.section__imgs {
+    width: 1210px;
+    height: 866.88px;
+    top: 91px;
+    left: 142px;
+}
