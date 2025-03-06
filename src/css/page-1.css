@@ -9,7 +9,7 @@
 body {
     /* background-color: black; */
     font-family: "Avenir-Heavy";
-    background-color: var(--color-2);
+    background-color: var(--color-4);
     padding: 64px;
     box-sizing: border-box;
 }
@@ -63,9 +63,9 @@ h1 {
 }
 
 .explore-btn {
-    background-color: var(--color-3);
+    background-color: var(--color-2);
     font-family: "Avenir-Roman";
-    color:var(--color-8) ;
+    color:var(--color-4) ;
     border: none;
     padding: 15px 50px;
     border-radius: 15px;
@@ -82,4 +82,10 @@ h1 {
     height: 280px;
     border-radius: 15px;
     
+}
+
+.gallery {
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: center;
 }
