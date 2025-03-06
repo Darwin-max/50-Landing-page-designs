@@ -115,6 +115,7 @@ main{
 .div__button-2 button {
     width: 254px;
     height: 66px;
+
     background: var(--color-4);
     border-radius: 16px;
     color: var(--color-3);
@@ -158,7 +159,9 @@ main{
 }
 .div__list-frame h3 {
     font-family: "Avenir-Heavy";
+
     color: var(--color-12);
+
 }
 
 .div__list-frame-pic{
@@ -229,6 +232,7 @@ main{
     width: 256px;
     height: 60px;
     background: var(--color-11);
+
     border-radius: 16px;
     line-height: 60px;
     justify-content: center;
