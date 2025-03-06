@@ -18,7 +18,7 @@ body {
     display: flex;
     justify-self: center;
     flex-direction: row;
-    background: var(--color-1);
+    background: var(--color-19);
 }
 
 .section__img {
@@ -71,14 +71,14 @@ body {
     height: 416px;
     font-family: "WorkSans-Bold";
     font-size: 88px;
-    color: var(--color-2);
+    color: var(--color-4);
 }
 
 .section__content p {
     height: 96px;
     font-family: "WorkSans-Light";
     font-size: 24px;
-    color: var(--color-3);
+    color: var(--color-4);
 }
 
 .section__content button {
@@ -88,6 +88,6 @@ body {
     font-family: "WorkSans-Medium";
     font-size: 32px;
     border-style: none;
-    background: var(--color-2);
-    color: var(--color-1);
+    background: var(--color-21);
+    color: var(--color-18);
 }
