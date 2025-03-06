@@ -24,18 +24,18 @@
 }
 
 .header_title{
-    /* background-color: blueviolet; */
+    background-color: blueviolet;
     width: 444px;
     height: 231px ;
     font-family:"Avenir-Heavy";
-    color: var(--color-4);
+    color: var(--color-2);
     margin-top: -140px;
 }
 
 .header_title{
     width: 444px;
-    font-family:"Avenir-Roman";
-    color: var(--color-4);
+    font-family:"Avenir-Heavy";
+    color: var(--color-2);
     font-size:56px;  
 }
 
@@ -46,7 +46,7 @@
     width: 444px;
     font-size: 26px; 
     padding:  20px;
-    margin-top: -20px;
+    margin-top: -1px;
     margin-left: -15px;
 }
 
@@ -54,13 +54,13 @@
     width: 157px;
     height: 50px;
     border: 0;
-    background-color: #252525;
+    background-color: var(--color-2);
     border-radius: 16px;
 }
 
 .button_a{
     text-decoration: none;
-    color: white;
+    color: var(--color-4);
     font-family: "Avenir-Roman";
     font-size: 18px;
     
