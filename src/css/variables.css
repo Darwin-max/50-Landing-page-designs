@@ -168,18 +168,30 @@
     --color-168: #F8D696;
     --color-169: #EABF61;
     --color-170: #FCEBC980;
+    --color-171: #ffffff30;
     }
         
   
 @font-face {
     font-family: "Avenir-Medium";
-    src: url("../src/storage/font/Avenir-Medium.ttf");
+    src: url(../src/storage/font/Avenir-Medium.ttf);
 }
 
 
 @font-face {
     font-family: "Times-Regular";
     src: url("../storage/font/Avenir/Avenir-Heavy.ttf");
+}
+
+
+@font-face {
+    font-family: "Avenir-Heavy";
+    src: url(../storage/font/Avenir/Avenir-Heavy.ttf);
+}
+
+@font-face {
+    font-family: "Avenir-Roman";
+    src: url(../src/storage/font/Avenir-Roman.ttf);
 }
 
 
@@ -196,4 +208,46 @@
 @font-face {
     font-family: "AvenirLTStd-Black";
     src: url(../storage/font/avenir-font/AvenirLTStd-Black.otf);
+}
+
+@font-face {
+    font-family: "Poppins-Bold";
+    src: url(../storage/font/Poppins/Poppins-Bold.ttf);
+}
+@font-face {
+    font-family: "Poppins-SemiBold";
+    src: url(../storage/font/Poppins/Poppins-SemiBold.ttf);
+}
+@font-face {
+    font-family: "Poppins-Regular";
+    src: url(../storage/font/Poppins/Poppins-SemiBold.ttf);
+}
+
+
+@font-face {
+    font-family: "Avenir-Roman";
+    src: url(../storage/font/Avenir/Avenir-Roman.ttf);
+}
+
+@font-face {
+    font-family: "Avenir-Heavy";
+    src: url(../storage/font/Avenir/Avenir-Heavy.ttf);
+}
+
+@font-face {
+    font-family: "AvenirLTStd-Black";
+    src: url(../storage/font/avenir-font/AvenirLTStd-Black.otf);
+}
+
+@font-face {
+    font-family: "Poppins-Bold";
+    src: url(../storage/font/Poppins/Poppins-Bold.ttf);
+}
+@font-face {
+    font-family: "Poppins-SemiBold";
+    src: url(../storage/font/Poppins/Poppins-SemiBold.ttf);
+}
+@font-face {
+    font-family: "Poppins-Regular";
+    src: url(../storage/font/Poppins/Poppins-SemiBold.ttf);
 }
