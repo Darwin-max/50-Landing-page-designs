@@ -215,3 +215,32 @@
     font-family: "Poppins-Regular";
     src: url(../storage/font/Poppins/Poppins-SemiBold.ttf);
 }
+
+
+@font-face {
+    font-family: "Avenir-Roman";
+    src: url(../storage/font/Avenir/Avenir-Roman.ttf);
+}
+
+@font-face {
+    font-family: "Avenir-Heavy";
+    src: url(../storage/font/Avenir/Avenir-Heavy.ttf);
+}
+
+@font-face {
+    font-family: "AvenirLTStd-Black";
+    src: url(../storage/font/avenir-font/AvenirLTStd-Black.otf);
+}
+
+@font-face {
+    font-family: "Poppins-Bold";
+    src: url(../storage/font/Poppins/Poppins-Bold.ttf);
+}
+@font-face {
+    font-family: "Poppins-SemiBold";
+    src: url(../storage/font/Poppins/Poppins-SemiBold.ttf);
+}
+@font-face {
+    font-family: "Poppins-Regular";
+    src: url(../storage/font/Poppins/Poppins-SemiBold.ttf);
+}
